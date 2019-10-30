@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\crist\\Desktop\\vle_content_file.file.82ce61b215648636.456a6572636963696f2052616c6c792e7a6970\\ModelosRally\\ModelosRally.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\crist\\Desktop\\vle_content_file.file.82ce61b215648636.456a6572636963696f2052616c6c792e7a6970\\ModelosRally\\ModelosRally.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\vle_content_file.file.82ce61b215648636.456a6572636963696f2052616c6c792e7a6970\\ModelosRally\\ModelosRally.csproj",
+        "projectName": "ModelosRally",
+        "projectPath": "C:\\Users\\crist\\Desktop\\vle_content_file.file.82ce61b215648636.456a6572636963696f2052616c6c792e7a6970\\ModelosRally\\ModelosRally.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\vle_content_file.file.82ce61b215648636.456a6572636963696f2052616c6c792e7a6970\\ModelosRally\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
